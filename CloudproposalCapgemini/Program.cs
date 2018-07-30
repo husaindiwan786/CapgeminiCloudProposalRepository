@@ -10,6 +10,9 @@ namespace CloudproposalCapgemini
     {
         static void Main(string[] args)
         {
+
+            Console.WriteLine("repository ban gai");
+            Console.ReadLine();
         }
     }
 }

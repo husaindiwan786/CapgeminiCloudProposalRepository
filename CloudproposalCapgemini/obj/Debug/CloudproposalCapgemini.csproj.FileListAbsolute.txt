@@ -1,1 +1,6 @@
 D:\CloudproposalCapgemini\CloudproposalCapgemini\bin\Debug\CloudproposalCapgemini.exe.config
+D:\CloudproposalCapgemini\CloudproposalCapgemini\bin\Debug\CloudproposalCapgemini.exe
+D:\CloudproposalCapgemini\CloudproposalCapgemini\bin\Debug\CloudproposalCapgemini.pdb
+D:\CloudproposalCapgemini\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.csprojResolveAssemblyReference.cache
+D:\CloudproposalCapgemini\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.exe
+D:\CloudproposalCapgemini\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.pdb
