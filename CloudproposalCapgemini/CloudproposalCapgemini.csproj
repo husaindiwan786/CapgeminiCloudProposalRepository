@@ -48,13 +48,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
-    <None Include="XMLSchema1.xsd">
-      <SubType>Designer</SubType>
-    </None>
-  </ItemGroup>
-  <ItemGroup>
-    <Content Include="XMLFile2.xml" />
-    <Content Include="XMLFile300.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="NewFolder1\" />
