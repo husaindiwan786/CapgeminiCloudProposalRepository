@@ -4,3 +4,6 @@ D:\CloudproposalCapgemini\CloudproposalCapgemini\bin\Debug\CloudproposalCapgemin
 D:\CloudproposalCapgemini\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.csprojResolveAssemblyReference.cache
 D:\CloudproposalCapgemini\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.exe
 D:\CloudproposalCapgemini\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.pdb
+D:\TestGIT\CapgeminiCloudProposalRepository\CloudproposalCapgemini\bin\Debug\CloudproposalCapgemini.exe.config
+D:\TestGIT\CapgeminiCloudProposalRepository\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.exe
+D:\TestGIT\CapgeminiCloudProposalRepository\CloudproposalCapgemini\obj\Debug\CloudproposalCapgemini.pdb
