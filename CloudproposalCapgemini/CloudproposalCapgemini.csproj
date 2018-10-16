@@ -54,10 +54,12 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="XMLFile2.xml" />
+    <Content Include="XMLFile300.xml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="NewFolder1\" />
     <Folder Include="NewFolder2\" />
+    <Folder Include="NewFolder3\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
